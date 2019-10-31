@@ -1,0 +1,54 @@
+body {
+	background-image: url("../images/background/ps_neutral.png")
+}
+
+h1, h2, h3, h4, h5, h6, h7 {
+	font-family: Georgia;
+}
+
+div.app-container {
+	margin: auto;
+	width: 1000px;
+	height: 550px;
+	border: 1px solid gray;
+	border-radius: 5px;
+	padding: 10px;
+	background-image: url("../images/background/ps_neutral_2x.png")
+}
+
+.current-user {
+	text-align: right;
+}
+
+.page-header {
+	text-align: center;
+}
+
+.centered-block {
+	display: table;
+	margin: 0 auto;
+}
+
+.user-icon-large {
+	margin: auto;
+	display: inline-block;
+	width: 150px;
+	height: 220px;
+	border: 1px solid gray;
+	border-radius: 3px;
+}
+
+.user-icon-middle {
+	vertical-align: top;
+	margin-left: 10px;
+	margin-right: 10px;
+	display: inline-block;
+	width: 75px;
+	height: 110px;
+	border: 1px solid gray;
+	border-radius: 3px;
+}
+
+.user-image-large {
+	width: 100%;
+}
